@@ -4943,11 +4943,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bindiya.tandel\\source\\repos\\EF\\EF\\EF.csproj",
+      "projectUniqueName": "C:\\Practice\\EF2\\EF\\EF.csproj",
       "projectName": "EF",
-      "projectPath": "C:\\Users\\bindiya.tandel\\source\\repos\\EF\\EF\\EF.csproj",
+      "projectPath": "C:\\Practice\\EF2\\EF\\EF.csproj",
       "packagesPath": "C:\\Users\\bindiya.tandel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bindiya.tandel\\source\\repos\\EF\\EF\\obj\\",
+      "outputPath": "C:\\Practice\\EF2\\EF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
